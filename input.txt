@@ -1,0 +1,36 @@
+Story of Mars
+Hanson, James
+123A2345V  12.50 5
+Home of the Warrior
+Johnsen, Nancy
+144R3333G 21.75 0
+Lord Of The Rings
+Tolkien, JRR
+144R3333G 21.75 0
+Harry Potter
+Rowling, JK
+144R3333G 21.75 2
+Great Expectations
+Dickens, Charles
+144R3333G 8.99 3
+Grapes Of Wrath
+Steinbeck, John
+144R3333G 11.25 0
+The Great Gatsby
+Fitzgerald, F Scott
+144R3333G 31.75 0
+Animal Farm
+Orwell, George
+144R3333G 21.75 7
+Tender Is The Night
+Fitzgerald, F Scott
+144R3333G 1.95 3
+War And Peace
+Tolstoy, Leo
+144R3333G 21.75 1
+The BFG
+Dahl, Roald
+144R3333G 13.99 0
+The Hunger Games
+Collins, Suzanne
+144R3333G 4.75 5
